@@ -2,7 +2,9 @@
 
 ## Description
 This repository offers Python generators for two different blog templates. The first template features a classic website format with a tabbed headline, while the second is more suitable for educational purposes, featuring a contents list on the left side.
-
+<br>
+You can visualize a sample of each blog template from here <a href="https://aymen-mahmoudi.github.io/Blog-Template/" target=_blank>https://aymen-mahmoudi.github.io/Blog-Template/</a> 
+ 
 ## Installation
 You just need to get any Python interpreter (tested and verified under the 3.8.0 version). Only native libraries are used.
 
