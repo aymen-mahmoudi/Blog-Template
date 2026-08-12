@@ -19,8 +19,6 @@ website_menu_contents = [
 
     {"class": "menu-category", "text": "Extra"},
     {"class": "menu-item", "href": "extra_quotes.html", "text": "Quotes"},
-    {"class": "menu-item", "href": "extra_movies.html", "text": "Movies"},
-    {"class": "menu-item", "href": "extra_riddles.html", "text": "Riddles"},
     {"class": "menu-item", "href": "extra_people.html", "text": "Wonderful people"},
 
 ]
